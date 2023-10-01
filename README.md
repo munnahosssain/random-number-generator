@@ -1,4 +1,4 @@
 # Random Number Generator
 A simple JavaScript random number generator with modern UI
 
-View at 
+View at: https://munnahosssain.github.io/random-number-generator/
