@@ -20,6 +20,10 @@ body {
   height: 100%;
 }
 
+.title{
+  font-weight: bolder;
+}
+
 h1 {
   font-weight: 100;
   font-size: max(min(72px, 7vw), 32px);
@@ -113,11 +117,16 @@ input:focus {
 }
 
 .hidden {
-  opacity: 0 !important;
+  /* opacity: 0 !important; */
 }
 
+/* .group{
+  display: flex;
+  justify-content: space-evenly;
+} */
+
 .noDisplay {
-  display: none;
+  /* display: none; */
 }
 
 #number {
